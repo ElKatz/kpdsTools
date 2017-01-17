@@ -1,5 +1,5 @@
 # kpds_tools 
-A (temporary) repo for user-friendly backwards-compatible modular add-ons to the krauzlis lab pldaps (abbreviated "kpds").
+A (temporary) repo for user-friendly backwards-compatible modular add-ons to the k lab pldaps (abbreviated "kpds").
 I porpose a slightly different folder organization and provide code that should work pretty neatly with either this (or the previous) organziation.
 
 ## Folder organization, a suggestion:
